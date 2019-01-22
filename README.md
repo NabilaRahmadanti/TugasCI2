@@ -1,9 +1,11 @@
 # Tugas-CI2
 
-User
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user1.JPG)
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user2.JPG)
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user3.JPG)
+HOME
 
+![alt text](https://github.com/NabilaRahmadanti/TugasCI2/blob/master/Hasil/1.PNG)
 Profil
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/profil1.JPG)
+![alt text](https://github.com/NabilaRahmadanti/TugasCI2/blob/master/Hasil/2.PNG)
+Galeri
+![alt text](https://github.com/NabilaRahmadanti/TugasCI2/blob/master/Hasil/3.PNG)
+Event
+![alt text](https://github.com/NabilaRahmadanti/TugasCI2/blob/master/Hasil/4.PNG)
