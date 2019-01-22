@@ -1,4 +1,4 @@
-# Tugas-CI-Lanjutan
+# Tugas-CI2
 
 User
 ![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user1.JPG)
